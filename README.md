@@ -19,8 +19,8 @@ This data set includes details of covid cases and deaths from all across the US 
 ## Team Members
 
 - Shawna Bilodeau: I am a 4th year micro student just struggling through the coding. 
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Jeena Javahar: I am a second year Computer Science major
+- Person 3: I do not exist
 
 ## Images
 
