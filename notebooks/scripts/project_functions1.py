@@ -1,4 +1,7 @@
-
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pylab as plt
 def df_percentage(df,case_column,death_column,new_column):
     """
     Adds a column for the percent deaths of a certain demographic of people
